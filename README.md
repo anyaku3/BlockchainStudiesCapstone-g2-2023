@@ -29,7 +29,7 @@ THE COLLEGIATE OF SCIENCE IN BLOCKCHAIN STUDIES</BR>
 
 CHICAGO, IL.
 
-(C)2023 MONIQUE FINLEY
+(C)2023 ODU, STEPHEN ANYAKU
 
 <HR>
 
@@ -385,7 +385,7 @@ Choosing the right launch window depends on various factors including market tre
 
 ## GITHUB ACCOUNT
 
-[Monique Finley on GitHub](https://github.com/finleyexp/capstone-g2-2023)
+[Monique Finley on GitHub](https://github.com/anyaku3/BlockchainStudiesCapstone-g2-2023/)
 Replace with your link.
 
 <HR>
